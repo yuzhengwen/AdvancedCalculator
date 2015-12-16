@@ -140,7 +140,7 @@
         android:maxHeight="48dp"
         android:maxWidth="48dp"
         android:minWidth="48dp"
-        android:onClick="buttonClicked"
+        android:onClick="numberButtonClicked"
         android:text="." />
 
     <!-- OPERATIONS -->
